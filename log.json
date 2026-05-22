@@ -1,5 +1,6 @@
 [
   {
+    "id": "CN01",
     "startTime": "2026-05-21 10:30",
     "endTime": "",
     "project": "Cloud Nine",
@@ -8,11 +9,21 @@
     "status": "In Progress"
   },
   {
+    "id": "CL01",
     "startTime": "2026-05-21 11:28",
     "endTime": "",
     "project": "Cloud9",
     "task": "Sales Order Upload Screen",
     "workDone": "Started working on Cloud9 sales order upload screen",
     "status": "In Progress"
+  },
+  {
+    "id": "WL01",
+    "startTime": "2026-05-22 09:56",
+    "endTime": "2026-05-22 10:30",
+    "project": "Work Logger",
+    "task": "Setup and Testing",
+    "workDone": "Built and tested the full work logging pipeline — GitHub API, Apps Script sync, Claude project integration",
+    "status": "Completed"
   }
 ]
