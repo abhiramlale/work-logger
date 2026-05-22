@@ -11,11 +11,11 @@
   {
     "id": "CL01",
     "startTime": "2026-05-21 11:28",
-    "endTime": "",
+    "endTime": "2026-05-22 18:30",
     "project": "Cloud9",
     "task": "Sales Order Upload Screen",
     "workDone": "Started working on Cloud9 sales order upload screen",
-    "status": "In Progress"
+    "status": "Completed"
   },
   {
     "id": "WL01",
